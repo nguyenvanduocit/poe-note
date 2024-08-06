@@ -12,14 +12,14 @@ function getBuildTime() {
 }
 
 const config = defineConfig({
-    title: "OnePercent+",
+    title: "Path Of Exile+",
     description: "Or a little bit more",
     lastUpdated: true,
     cleanUrls: true,
     metaChunk: true,
     lang: 'vi-VN',
     sitemap: {
-        hostname: 'https://onepercent.plus'
+        hostname: 'https://poe.onepercent.plus'
     },
     ignoreDeadLinks: [
         '/parts'
